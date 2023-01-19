@@ -1,9 +1,8 @@
 # Programming-in-Java-NPTEL
 
-# [Programming-In-Java-NPTEL](https://github.com/iamaslamkhan/Programming-in-Java)
+# [Programming-In-Java-NPTEL](https://github.com/iamaslamkhan/NPTEL/tree/main/Programming-In-Java)
 
 ## [WEEK o](https://github.com/iamaslamkhan/NPTEL/tree/main/Programming-In-Java/Week-0)
-
 
 ## [WEEK 1](https://github.com/iamaslamkhan/Programming-in-Java/tree/master/Week%201)
 
